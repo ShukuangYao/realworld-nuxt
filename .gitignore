@@ -2,3 +2,4 @@
 /.android/
 /.nuxt/
 /*.zip/
+.DS_Store
